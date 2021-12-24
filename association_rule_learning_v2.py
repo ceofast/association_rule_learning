@@ -275,7 +275,7 @@ rules.sort_values("lift", ascending=False).head(5)
 # 24749         (21989, 21086)         (21987, 21988)            0.010941            0.010941  0.010941         1.0  91.4  0.010821         inf
 # 39036         (21987, 21989)  (21086, 21988, 21094)            0.010941            0.010941  0.010941         1.0  91.4  0.010821         inf
 
-# This content belongs to "Data Science School and Miuul". It cannot be used without permission.
+# This content belongs to "Veri Bilimi Okulu and Miuul". It cannot be used without permission.
 
 
 
