@@ -12,7 +12,7 @@
 # It takes the best extract of that flow and personalizes us. Basically, our purpose in these systems
 # is to filter the contents.
 # Source;
-#       https://www.datasciencearth.com/birliktelik-kurallari-algoritmalari/
+# 
 #       https://www.veribilimiokulu.com/category/makine-ogrenmesi/
 
 #   - Apriori Algorithm -
