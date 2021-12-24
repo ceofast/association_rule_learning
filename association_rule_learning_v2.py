@@ -1,4 +1,4 @@
-# ASSOCIATION RULE LEARNING (BİRLİKTELİK KURALI ÖĞRENİMİ)
+# ASSOCIATION RULE LEARNING
 
 # The association rules method is to present these correlations in the best way through
 # rules, if there are significant correlations between the items that occur simultaneously
