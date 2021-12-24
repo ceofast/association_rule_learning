@@ -36,5 +36,3 @@ increases when we buy a product.
 
 Our aim is to suggest products to users in the product purchasing process by
 applying association analysis to the online retail II dataset.
-
-# This content belongs to "Veri Bilimi Okulu and Miuul". It cannot be used without permission.
