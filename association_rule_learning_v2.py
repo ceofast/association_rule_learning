@@ -1,21 +1,3 @@
-# Simple Recommender Systems (Basit Tavsiye Ssistemleri)
-#   - İş bilgisi ya da basit tekniklerle yapılan genel öneriler.
-#   - Kategorinin en yüksek puanlıları, trend olanlar, efsaneler.
-
-# Association Rule Learning (Birliktelik Kuralı Öğrenimi)
-#   - Birkiltelik analizi ile öğrenilen kurallara göre ürün önerileri.
-
-# Content Based Filtering (İçerik Temelli Filtreleme)
-#   - Ürün benzerliğine göre öneriler yapılan uzaklık temelli yöntemler.
-
-# Collaborative Filtering (İş Birlikçi Filtreleme)
-#   - Topluluğun kullanıcı ya da ürün bazında ortak kanaatlerini yansıtan yöntemler.
-#   - User-Based
-#   - Item-Based
-#   - Model-Based (Matrix Factorization)
-
-
-
 # ASSOCIATION RULE LEARNING (BİRLİKTELİK KURALI ÖĞRENİMİ)
 
 # The association rules method is to present these correlations in the best way through
