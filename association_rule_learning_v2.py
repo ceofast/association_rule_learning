@@ -13,7 +13,6 @@
 # is to filter the contents.
 # Source;
 # 
-#       https://www.veribilimiokulu.com/category/makine-ogrenmesi/
 
 #   - Apriori Algorithm -
 
