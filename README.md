@@ -11,9 +11,6 @@ stored in their databases. We cannot upload these hundreds of thousands of conte
 We should use content filtering methods. When we watch or like a video, we enter a certain flow.
 It takes the best extract of that flow and personalizes us. Basically, our purpose in these systems
 is to filter the contents.
-Source;
-       
-       https://www.veribilimiokulu.com/category/makine-ogrenmesi/
 
    - Apriori Algorithm -
 
